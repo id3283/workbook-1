@@ -8,6 +8,8 @@ public class MathApp {
         double bobSalary = 50000;
         double garySalary = 200000.99;
 
+
+        // here's a new comment
         // then code solution
         double highestSalary = Math.max(bobSalary, garySalary);
 
